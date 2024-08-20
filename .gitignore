@@ -1,0 +1,7 @@
+docker/db/storage/*
+src/*
+.env
+
+# for WSL / MacOS
+*Zone.Identifier
+.DS_Store
